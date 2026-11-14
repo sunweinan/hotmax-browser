@@ -46,7 +46,7 @@ Topics：`browser`、`electron`、`cli`、`automation`、`javascript`、`ai-agen
 1. 同步 package.json、package-lock.json 和 CHANGELOG.md 的版本。
 2. 标明支持范围及实际验证状态；未运行的平台不标为已验收。
 3. 在仓库设置中启用私密漏洞报告；为维护者设置合适的分支保护。
-4. 创建形如 `v0.1.0` 的标签，在 GitHub Releases 填写版本说明。
+4. 创建形如 `v1.2.0` 的标签，在 GitHub Releases 填写版本说明。
 5. 附上源码包及校验值，或直接提供仓库源码下载；不要求上传应用包。
 6. 在说明中列出实际验证的平台与架构，明确签名状态和已知边界。
 
