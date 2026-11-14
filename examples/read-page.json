@@ -1,0 +1,4 @@
+{
+  "tabId": "1",
+  "code": "({title:document.title,url:location.href,heading:document.querySelector('h1')?.textContent?.trim(),links:[...document.querySelectorAll('main a[href]')].slice(0,10).map(a=>({text:a.textContent.trim(),url:a.href}))})"
+}
