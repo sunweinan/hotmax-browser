@@ -23,7 +23,7 @@
     "prettier": "^3.9.10"
   },
   "productName": "Hotmax Browser",
-  "description": "A local browser controlled through CLI and JavaScript, without taking over your mouse.",
+  "description": "开源 AI 浏览器与浏览器自动化工具，面向 Codex 和 AI Agent。通过 CLI、JavaScript、DOM 自动操作网页，支持网页数据提取、表单填写与自动化工作流，不占用系统鼠标。Open-source AI browser for AI agents, CLI browser automation, web scraping and form automation. macOS / Windows.",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -41,7 +41,22 @@
     "electron",
     "cli",
     "automation",
-    "ai-agent"
+    "javascript",
+    "ai-agent",
+    "macos",
+    "windows",
+    "ai-browser",
+    "browser-automation",
+    "web-automation",
+    "ai-agents",
+    "codex",
+    "dom",
+    "web-scraping",
+    "form-automation",
+    "浏览器",
+    "AI浏览器",
+    "浏览器自动化",
+    "网页自动操作"
   ],
   "files": [
     "src/",

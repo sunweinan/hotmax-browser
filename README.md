@@ -1,16 +1,17 @@
 <div align="center">
   <img src="assets/icon.png" alt="Hotmax Browser" width="112" />
   <h1>Hotmax Browser</h1>
+  <p>Open-source AI browser for AI agents and CLI browser automation.</p>
   <p><strong>让开发工具操作网页，把鼠标和桌面留给你。</strong></p>
-  <p>面向编程助手与自动化脚本的本地浏览器 · CLI · JavaScript · 独立账户环境</p>
+  <p>开源 AI 浏览器 · 浏览器自动化 · Codex / AI Agent · CLI / DOM</p>
   <p><a href="docs/getting-started.md">安装与使用</a> · <a href="docs/contracts/browser.md">命令接口</a> · <a href="docs/architecture.md">架构</a> · <a href="CONTRIBUTING.md">参与贡献</a></p>
 </div>
 
 ## 为什么做这个浏览器
 
-使用编程助手处理网页任务时，我们希望它能读取页面、填写表单、点击链接和获取结果，同时继续使用自己的电脑。
+使用 Codex 等 AI 编程助手处理网页任务时，我们希望它能读取页面、填写表单、点击链接和获取结果，同时继续使用自己的电脑。
 
-Hotmax Browser 把网页操作开放为本机命令。编程助手通过 CLI 与浏览器通信，在页面内执行 JavaScript，读取 DOM 和结构化信息；常规操作无需截取整个屏幕、推断坐标，也无需移动系统鼠标。
+Hotmax Browser 是面向 AI Agent 的开源浏览器和网页自动化工具，将网页操作开放为本机命令。编程助手通过 CLI 与浏览器通信，在页面内执行 JavaScript、读取 DOM，完成网页数据提取（Web Scraping）、表单填写（Form Automation）和自动化工作流；常规操作无需截取整个屏幕、推断坐标，也无需移动系统鼠标。
 
 浏览器窗口仍然可见，你可以随时查看过程、手动登录或接管。网页数据和登录态保存在本机；工具不内置模型、AI 服务或遥测。访问的网站仍按各自规则处理请求和数据。
 
