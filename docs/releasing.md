@@ -33,9 +33,9 @@ npm run package
 
 仓库：[sunweinan/hotmax-browser](https://github.com/sunweinan/hotmax-browser)。
 
-简介：开源 AI 浏览器与浏览器自动化工具，面向 Codex 和 AI Agent。通过 CLI、JavaScript、DOM 自动操作网页，支持网页数据提取、表单填写与自动化工作流，不占用系统鼠标。Open-source AI browser for AI agents, CLI browser automation, web scraping and form automation. macOS / Windows.
+简介：开源 AI 浏览器与浏览器自动化工具，面向 Codex、AI Agent 和 AI 编程助手。通过 CLI、JavaScript、DOM 实现浏览器控制、网页交互、数据提取、自动填表和工作流自动化，不占用系统鼠标。Open-source AI browser, browser automation, browser control, AI assistant tools, web scraping, form automation and workflow automation. macOS / Windows.
 
-Topics：`browser`、`electron`、`cli`、`automation`、`javascript`、`ai-agent`、`macos`、`windows`、`ai-browser`、`browser-automation`、`web-automation`、`ai-agents`、`codex`、`dom`、`web-scraping`、`form-automation`。
+Topics：`browser`、`electron`、`cli`、`automation`、`javascript`、`ai-agent`、`macos`、`windows`、`ai-browser`、`browser-automation`、`web-automation`、`ai-agents`、`codex`、`dom`、`web-scraping`、`form-automation`、`ai-assistant`、`browser-control`、`workflow-automation`、`developer-tools`。
 
 根 README 自动成为 GitHub 项目介绍页，无需单独部署网站。仓库包含贡献指南、安全说明、行为准则、Issue/PR 模板和 CI；上传后可在 GitHub 的 Community Standards 页面检查识别结果。
 
